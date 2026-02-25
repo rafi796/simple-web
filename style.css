@@ -1,0 +1,12 @@
+body {
+ position: center;
+ background-size: cover; 
+ background-position: center;
+ background-repeat: no-repeat;
+ background-color: black;
+
+}
+
+h1 {
+    color: red;
+}
